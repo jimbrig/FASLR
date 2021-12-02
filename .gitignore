@@ -2,3 +2,4 @@ db/
 sql_test.py
 faslr.ini
 scratch.py
+faslr/__pycache__/
